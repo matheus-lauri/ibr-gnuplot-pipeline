@@ -52,5 +52,9 @@ momento a partir de `summaries.json`, sem reprocessar o `output.csv` original.
 ## Contexto acadêmico
 
 A descrição completa da metodologia, o critério de seleção dos 25 gráficos entre os estilos
-oferecidos pelo Gnuplot, e a discussão de cada resultado estão documentados no TCC correspondente
-(referência a ser incluída após a publicação do trabalho).
+oferecidos pelo Gnuplot, e a discussão de cada resultado estão documentados no TCC correspondente:
+
+> LAURITZEN, Matheus Baron. **Desenvolvimento de um Pipeline Gnuplot para Análise de Eventos em
+> Radiação de Fundo da Internet**. Trabalho de Conclusão de Curso (Graduação em Ciência da
+> Computação) — Universidade do Vale do Itajaí, Itajaí, 2026. Disponível em:
+> [`TCC_Matheus_Baron_Lauritzen.pdf`](./TCC_Matheus_Baron_Lauritzen.pdf).
