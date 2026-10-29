@@ -1,0 +1,23 @@
+# Dataset bruto e saídas intermediárias (regeneráveis, não versionadas)
+*.csv
+*.csv.gz
+*.pcap
+*.pcap.gz
+summaries.json
+summaries.json.bak
+*.dat
+!world_50m.dat
+
+# Logs e backups de execução
+*.log
+*.bak
+
+# Ambiente Python
+venv/
+venv_ibr/
+__pycache__/
+*.pyc
+
+# Dados sensíveis de geolocalização (não redistribuíveis)
+GeoIP2-City.mmdb
+GeoLite2-City.mmdb
