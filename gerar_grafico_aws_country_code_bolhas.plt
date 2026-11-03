@@ -1,5 +1,5 @@
 # Top 20 Códigos de País de Destino da Radiação IBR (Região AWS), bolhas proporcionais à contagem
-set terminal pngcairo size 1600,800 enhanced font "Verdana,22"
+set terminal pngcairo size 1263,632 enhanced font "Verdana,22"
 set output 'grafico_aws_country_code_bolhas.png'
 
 stats 'top_20_aws_country_code.dat' using 2 nooutput

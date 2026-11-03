@@ -1,5 +1,5 @@
 # Distribuição de Protocolos de Transporte por Código de País de Destino AWS (Top 20, barras empilhadas)
-set terminal pngcairo size 1800,900 enhanced font "Verdana,20"
+set terminal pngcairo size 1364,682 enhanced font "Verdana,20"
 set output 'grafico_aws_country_code_empilhado.png'
 
 set title "Distribuição de Protocolos de Transporte por País de Destino AWS (Top 20)"

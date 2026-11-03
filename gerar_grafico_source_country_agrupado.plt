@@ -1,5 +1,5 @@
 # Distribuição de Protocolos de Transporte por País de Origem (Top 20, barras agrupadas)
-set terminal pngcairo size 2000,1000 enhanced font "Verdana,21"
+set terminal pngcairo size 1432,716 enhanced font "Verdana,21"
 set output 'grafico_source_country_agrupado.png'
 
 set title "Distribuição de Protocolos de Transporte por País de Origem (Top 20)"

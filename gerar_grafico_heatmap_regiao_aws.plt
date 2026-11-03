@@ -1,5 +1,5 @@
 # Mapa de Calor: Região AWS x Protocolo de Transporte
-set terminal pngcairo size 1600,1150 enhanced font "Verdana,21"
+set terminal pngcairo size 1432,1030 enhanced font "Verdana,21"
 set output 'grafico_heatmap_regiao_aws.png'
 
 set title "Distribuição de Tráfego IBR por Região AWS e Protocolo"

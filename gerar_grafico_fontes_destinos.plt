@@ -1,5 +1,5 @@
 # IPs Únicos: Origens vs. Destinos de Radiação (Unique Radiation Sources/Destinations)
-set terminal pngcairo size 1300,850 enhanced font "Verdana,22"
+set terminal pngcairo size 1105,723 enhanced font "Verdana,22"
 set output 'grafico_fontes_destinos_unicos.png'
 
 set grid ytics

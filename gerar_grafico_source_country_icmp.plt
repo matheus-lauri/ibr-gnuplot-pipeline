@@ -1,5 +1,5 @@
 # Top 20 Países de Origem da Radiação IBR, isolando somente pacotes ICMP
-set terminal pngcairo size 2000,1100 enhanced font "Verdana,20"
+set terminal pngcairo size 1364,750 enhanced font "Verdana,20"
 set output 'grafico_top_20_source_country_icmp.png'
 
 set grid ytics

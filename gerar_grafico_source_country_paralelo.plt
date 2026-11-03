@@ -1,5 +1,5 @@
 # Perfil TCP/UDP/ICMP por País de Origem (Top 20, eixos paralelos - cada linha é um país)
-set terminal pngcairo size 1300,1080 enhanced font "Verdana,20"
+set terminal pngcairo size 1148,954 enhanced font "Verdana,20"
 set output 'grafico_source_country_paralelo.png'
 
 set title "Perfil de Protocolo por País de Origem (Eixos Paralelos, Top 20)"

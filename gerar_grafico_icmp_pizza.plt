@@ -1,5 +1,5 @@
 # Distribuição de Tipos de Pacote ICMP no Tráfego IBR (gráfico de setores)
-set terminal pngcairo size 1300,1150 enhanced font "Verdana,22"
+set terminal pngcairo size 1105,978 enhanced font "Verdana,22"
 set output 'grafico_icmp_tipos_pizza.png'
 
 stats 'icmp_types_sectors.dat' using 4 nooutput

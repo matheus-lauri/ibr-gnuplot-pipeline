@@ -1,5 +1,5 @@
 # Distribuição de Protocolos de Transporte (Transport Layer Distribution)
-set terminal pngcairo size 1400,900 enhanced font "Verdana,22"
+set terminal pngcairo size 1342,863 enhanced font "Verdana,22"
 set output 'grafico_distribuicao_protocolos.png'
 
 set grid ytics

@@ -1,5 +1,5 @@
 # Distribuição de Pacotes por Porta TCP de Destino (cauda pesada, escala log-log, bins logarítmicos)
-set terminal pngcairo size 1400,1000 enhanced font "Verdana,22"
+set terminal pngcairo size 1342,959 enhanced font "Verdana,22"
 set output 'grafico_powerlaw_portas.png'
 
 set title "Distribuição de Pacotes Recebidos por Porta TCP de Destino"

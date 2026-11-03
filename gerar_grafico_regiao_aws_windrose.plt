@@ -1,5 +1,5 @@
 # Distribuição de Pacotes por Região AWS (rosa adaptada - 26 "pétalas" radiais, uma por região)
-set terminal pngcairo size 1700,1700 enhanced font "Verdana,20"
+set terminal pngcairo size 1077,1077 enhanced font "Verdana,20"
 set output 'grafico_regiao_aws_windrose.png'
 
 set angles degrees

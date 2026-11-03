@@ -1,5 +1,5 @@
 # Top 20 Combinações de Flags TCP no Tráfego IBR
-set terminal pngcairo size 2000,1000 enhanced font "Verdana,22"
+set terminal pngcairo size 1500,750 enhanced font "Verdana,22"
 set output 'grafico_top_20_tcp_flags.png'
 
 set grid ytics

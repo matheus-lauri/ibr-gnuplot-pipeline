@@ -1,5 +1,5 @@
 # Top 20 Códigos de País de Origem da Radiação IBR, bolhas proporcionais à contagem
-set terminal pngcairo size 1600,800 enhanced font "Verdana,22"
+set terminal pngcairo size 1263,632 enhanced font "Verdana,22"
 set output 'grafico_source_country_iso_bolhas.png'
 
 stats 'top_20_source_country_iso_code.dat' using 2 nooutput

@@ -1,5 +1,5 @@
 # Mapa de Calor: País de Origem x Protocolo de Transporte (Top 20)
-set terminal pngcairo size 1600,1150 enhanced font "Verdana,21"
+set terminal pngcairo size 1281,921 enhanced font "Verdana,21"
 set output 'grafico_heatmap_fontes_protocolo.png'
 
 set title "Top 20 Países de Origem da Radiação IBR por Protocolo"

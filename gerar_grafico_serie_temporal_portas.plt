@@ -1,6 +1,6 @@
 # Série temporal: pacotes por dia nas portas TCP 10000/10001/10002
 
-set terminal pngcairo size 1800,900 enhanced font "Verdana,22"
+set terminal pngcairo size 1500,750 enhanced font "Verdana,22"
 set output 'grafico_serie_temporal_portas.png'
 
 set title "Pacotes de Radiação IBR por Dia - Portas TCP 10000/10001/10002"
@@ -14,6 +14,7 @@ set timefmt "%Y-%m-%d"
 set format x "%b/%y"
 set xtics rotate by -45
 set lmargin 13
+set rmargin 6
 set bmargin 6
 
 set format y "%.1t×10^{%T}"

@@ -1,6 +1,6 @@
 # Total diário de pacotes de radiação IBR em outubro de 2023, no mesmo estilo
 # do gráfico manual do grupo de pesquisa (barras, eixo Y em números simples)
-set terminal pngcairo size 1800,600 enhanced font "Verdana,22"
+set terminal pngcairo size 1500,500 enhanced font "Verdana,22"
 set output 'grafico_total_diario_outubro.png'
 
 set xdata time

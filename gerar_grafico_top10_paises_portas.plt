@@ -1,5 +1,5 @@
 # Top 10 Países de Origem da Radiação IBR, com Porta TCP Principal rotulada (Subconjunto B)
-set terminal pngcairo size 1600,1000 enhanced font "Verdana,22"
+set terminal pngcairo size 1500,938 enhanced font "Verdana,22"
 set output 'grafico_top10_paises_portas.png'
 
 set grid ytics
